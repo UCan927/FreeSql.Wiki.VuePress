@@ -5,3 +5,4 @@ docs/.vuepress/.temp/
 docs/.vuepress/dist/
 .pnpm-debug.log
 docs/.vuepress/dist.zip
+/package-lock.json
